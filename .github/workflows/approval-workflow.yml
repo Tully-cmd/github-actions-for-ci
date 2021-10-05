@@ -1,1 +1,2 @@
-Team Tully's approval workflow
+name: Team Tully's approval workflow
+on: pull_request_review
